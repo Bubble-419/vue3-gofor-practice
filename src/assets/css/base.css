@@ -1,0 +1,55 @@
+@import "./normalize.css";
+
+:root {
+  --theme-light-green: #D8E6E7;
+  --theme-medium-green: #9DC3C1;
+  --theme-dark-green: #77AAAD;
+  --font-title-color: #6E7783;
+  --font-color: #494949;
+  --bg-color: #f4f7f7;
+  --price-color: #FE5B1A;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--font-color);
+}
+
+main,
+.w {
+  width: 1000px;
+  margin: auto;
+}
+
+a {
+  color: var(--font-color);
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+button,
+input:focus {
+  outline: 0;
+}
+
+.el-descriptions :not(.is-bordered) td {
+  padding-bottom: 20px;
+  font-size: 1.1em;
+}
+
+.el-descriptions__label {
+  padding-right: 35px;
+}
+
+.el-descriptions__content {
+  font-weight: 700;
+
+}

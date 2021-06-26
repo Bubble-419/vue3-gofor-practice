@@ -1,0 +1,30 @@
+{
+  "id": "2588964",
+  "name": "gofor",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1403428",
+      "name": "华为",
+      "font_class": "huawei",
+      "unicode": "e82e",
+      "unicode_decimal": 59438
+    },
+    {
+      "icon_id": "13743932",
+      "name": "gitee-fill-round",
+      "font_class": "gitee-fill-round",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "20278967",
+      "name": "GitHub",
+      "font_class": "GitHub",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
